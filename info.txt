@@ -1,0 +1,2 @@
+https://github.com/ocombe/ng-conf-library
+https://github.com/valor-software/ng2-bootstrap#usage--demo

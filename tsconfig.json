@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+	"lib": [ "es2015", "dom" ],
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "declaration": true,
+    "moduleResolution": "node"
+  },
+  "files": [
+	"./typings/index.d.ts",
+	"./gota-component.ts",
+	"./src/component.ts",
+	"./src/service.ts"
+  ]
+}
